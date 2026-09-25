@@ -1,3 +1,3 @@
 BeerBus Gastro Pub önizleme.
 
-https://yagizm-production.github.io/beerbus/
+Canlı site: https://yagizm-production.github.io/beerbus/
